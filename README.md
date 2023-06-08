@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![](https://komarev.com/ghpvc/?username=rdr07&color=brightgreen)
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdr07&layout=compact&theme=radical" width="500" />
